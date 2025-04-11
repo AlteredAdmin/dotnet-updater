@@ -1,4 +1,4 @@
-# DotnetUpdater
+# .NET Updater
 
 A PowerShell script that downloads the latest ASP.NET Core Runtime hosting bundle, silently installs it, and logs detailed pre- and post-installation information. This script retrieves the .NET release metadata from an online JSON file, parses the data to determine the latest version, downloads the corresponding installer, and then checks the installed .NET runtimes before and after the installation.
 
